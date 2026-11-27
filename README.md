@@ -1,4 +1,4 @@
-# tumor-lipidomics
+# tumor-metabolomics
 
 A classifier that distinguishes lung adenocarcinoma tumor tissue from adjacent normal
 tissue using GC-TOF metabolomics data (Metabolomics Workbench study
@@ -23,8 +23,8 @@ from the repository root.
 
 1. **Get the code**
    ```bash
-   git clone https://github.com/k3rrye/tumor-lipidomics.git
-   cd tumor-lipidomics
+   git clone https://github.com/k3rrye/tumor-metabolomics.git
+   cd tumor-metabolomics
    ```
 
 2. **Create the Python environment** with the pinned package versions
