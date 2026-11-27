@@ -3,3 +3,7 @@ data/
 __pycache__/
 .DS_Store
 .claude/settings.local.json
+
+# Private working files (kept locally, never published)
+CLAUDE.md
+NOTES.md
