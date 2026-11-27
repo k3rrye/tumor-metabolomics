@@ -144,3 +144,8 @@ from the repository root.
 | `figures/` | Figures written by each stage |
 | `data/` | Downloads and processed tables (git-ignored, rebuilt by the steps above) |
 | `requirements.txt` | Pinned Python package versions |
+
+## Use of AI assistance
+
+Developed with [Claude Code](https://claude.com/claude-code), which helped write the
+code and documentation. All analysis decisions were made by the author.
